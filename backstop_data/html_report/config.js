@@ -4,7 +4,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_My_BackstopJS_testing_practice_Homepage_0_document_0_phone.png",
-        "test": "../bitmaps_test/20181128-122309/backstop_default_My_BackstopJS_testing_practice_Homepage_0_document_0_phone.png",
+        "test": "../bitmaps_test/20181128-124147/backstop_default_My_BackstopJS_testing_practice_Homepage_0_document_0_phone.png",
         "selector": "document",
         "fileName": "backstop_default_My_BackstopJS_testing_practice_Homepage_0_document_0_phone.png",
         "label": "My BackstopJS testing practice Homepage",
@@ -28,7 +28,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_My_BackstopJS_testing_practice_Homepage_0_document_1_tablet.png",
-        "test": "../bitmaps_test/20181128-122309/backstop_default_My_BackstopJS_testing_practice_Homepage_0_document_1_tablet.png",
+        "test": "../bitmaps_test/20181128-124147/backstop_default_My_BackstopJS_testing_practice_Homepage_0_document_1_tablet.png",
         "selector": "document",
         "fileName": "backstop_default_My_BackstopJS_testing_practice_Homepage_0_document_1_tablet.png",
         "label": "My BackstopJS testing practice Homepage",
